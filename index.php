@@ -27,10 +27,13 @@
 
 ?><br/>
 
-<a href="echo.php">echo()</a><br/>
-<a href="var.php">변수</a><br/>
-<a href="const.php">상수</a><br/>
-<a href="dataType.php">테이터 타입</a><br/>
+<a href="src/echo.php">echo()</a><br/>
+<a href="src/var.php">변수</a><br/>
+<a href="src/const.php">상수</a><br/>
+<a href="src/dataType.php">테이터 타입</a><br/>
+<a href="src/operator.php">연산자</a><br/>
+<a href="src/expressions.php">표현식</a><br/>
+<a href="src/arr.php">배열</a><br/>
 
 
 
