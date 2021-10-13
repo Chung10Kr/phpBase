@@ -16,7 +16,7 @@ php -v
 sudo apachectl start
 ```
 브라우저에서 localhost 접근
-![img](https://github.com/Chung10Kr/phpBase/blob/main/img/img01.png);
+![img](https://github.com/Chung10Kr/phpBase/blob/main/img/img01.png)
 
 이거는 브라우저가 아파치의 '기본 제공 index 페이지'를 열었기 때문
 
@@ -63,6 +63,7 @@ Include /private/etc/apache2/users/의 username.conf 추가
 
 
 3. httpd.conf 수정
+
 mod_authz_core, mod_authz_host, mod_userdir 관련모듈 활성화 
 
 macOS 요세미티 이후로는 mod_authz_host 와 mod_authz_core 모듈은 이미 주석이 제거되어 있으므로, mod_userdir 모듈만 다음과 같이 주석을 제거하여 활성화
@@ -91,4 +92,4 @@ sudo apachectl restart
 
 localhost/~username/으로 접근
 
-![img](https://github.com/Chung10Kr/phpBase/blob/main/img/img02.png);
+![img](https://github.com/Chung10Kr/phpBase/blob/main/img/img02.png)
