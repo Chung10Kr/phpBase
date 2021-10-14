@@ -34,6 +34,8 @@
 <a href="src/operator.php">연산자</a><br/>
 <a href="src/expressions.php">표현식</a><br/>
 <a href="src/arr.php">배열</a><br/>
+<a href="src/fnc.php">함수</a><br/>
+<a href="src/innerFnc.php">내장함수</a><br/>
 
 
 
