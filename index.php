@@ -36,6 +36,9 @@
 <a href="src/arr.php">배열</a><br/>
 <a href="src/fnc.php">함수</a><br/>
 <a href="src/innerFnc.php">내장함수</a><br/>
+<a href="src/regular.php">정규표현식</a><br/>
+<a href="src/class.php">클래스</a><br/>
+<a href="src/inheritance.php">상속</a><br/>
 
 
 
